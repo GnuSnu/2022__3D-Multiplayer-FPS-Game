@@ -3,7 +3,7 @@
 (Oct 2022 - Jan 2023)
 A 3D multiplayer first-person shooter built in Unity using C# and Mirror Networking. Features custom networked player movement, direct IP server hosting/joining, and raycast-based gun mechanics.
 
-![Gameplay Demo](demo.gif)
+<img width="632" height="430*5" alt="Adobe Express - FILM_DEMONSTRACYJNY" src="https://github.com/user-attachments/assets/edbad264-7124-4318-959d-c7f6d77eef22" />
 
 ## Overview
 
